@@ -1,0 +1,5 @@
+The file /xkcd-email-project/xkcd-email-project/src/registered_emails.txt is intended to serve as a database for storing registered user emails. Initially, this file should be empty to allow for new registrations. 
+
+Here are the contents for the file:
+
+<!-- This file is intentionally left blank. -->
